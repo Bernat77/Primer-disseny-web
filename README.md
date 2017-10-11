@@ -2,4 +2,4 @@
 
 Es una página de tipos de Pizza
 
-https://rawgit.com/Bernat77/Primer-disseny-web/master/pagina%20web.html
+https://rawgit.com/Bernat77/Primera-pagina-web/master/pagina%20web.html
